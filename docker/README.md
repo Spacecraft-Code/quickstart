@@ -1,4 +1,4 @@
-# Yamcs QuickStart's Docker and Makefile
+# Yamcs' QuickStart guide via Makefile and Docker
 
 This folder contains content to run yamcs in a docker container
 
@@ -8,7 +8,7 @@ This folder contains content to run yamcs in a docker container
 * docker
 * docker-compose
 
-## Builing, running, and simulating data in Yamcs
+## Building, running, and simulating data in Yamcs
 
 Here are some commands to get things started:
 
